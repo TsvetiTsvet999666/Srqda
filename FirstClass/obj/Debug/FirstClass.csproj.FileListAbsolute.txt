@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\FirstClass\bin\Debug\FirstClass.exe.config
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\FirstClass\bin\Debug\FirstClass.exe
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\FirstClass\bin\Debug\FirstClass.pdb
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\FirstClass\obj\Debug\FirstClass.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\FirstClass\obj\Debug\FirstClass.exe
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\FirstClass\obj\Debug\FirstClass.pdb

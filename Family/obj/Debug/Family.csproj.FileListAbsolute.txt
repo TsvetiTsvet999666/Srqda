@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\Family\bin\Debug\Family.exe.config
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\Family\bin\Debug\Family.exe
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\Family\bin\Debug\Family.pdb
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\Family\obj\Debug\Family.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\Family\obj\Debug\Family.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\Family\obj\Debug\Family.exe
+C:\Users\STUDENTS-1212-12\Documents\Tsvetelina IXa\Class9a\Family\obj\Debug\Family.pdb

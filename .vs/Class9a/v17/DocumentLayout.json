@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{231B3F1B-A7D7-437A-BA3B-DDD3AE207956}|Family\\Family.csproj|c:\\users\\students-1212-12\\documents\\tsvetelina ixa\\class9a\\family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231B3F1B-A7D7-437A-BA3B-DDD3AE207956}|Family\\Family.csproj|solutionrelative:family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B3F1B-A7D7-437A-BA3B-DDD3AE207956}|Family\\Family.csproj|C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231B3F1B-A7D7-437A-BA3B-DDD3AE207956}|Family\\Family.csproj|solutionrelative:family\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B3F1B-A7D7-437A-BA3B-DDD3AE207956}|Family\\Family.csproj|C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\family\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231B3F1B-A7D7-437A-BA3B-DDD3AE207956}|Family\\Family.csproj|solutionrelative:family\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10268347-0F79-4ADC-89CD-856FA478A4C3}|FirstClass\\FirstClass.csproj|C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\firstclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10268347-0F79-4ADC-89CD-856FA478A4C3}|FirstClass\\FirstClass.csproj|solutionrelative:firstclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10268347-0F79-4ADC-89CD-856FA478A4C3}|FirstClass\\FirstClass.csproj|C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10268347-0F79-4ADC-89CD-856FA478A4C3}|FirstClass\\FirstClass.csproj|solutionrelative:firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\Family\\Family.cs",
+              "RelativeDocumentMoniker": "Family\\Family.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\Family\\Family.cs",
+              "RelativeToolTip": "Family\\Family.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:49:07.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\Family\\Person.cs",
+              "RelativeDocumentMoniker": "Family\\Person.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\Family\\Person.cs",
+              "RelativeToolTip": "Family\\Person.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:48:27.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\Family\\Program.cs",
+              "RelativeDocumentMoniker": "Family\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\Family\\Program.cs",
+              "RelativeToolTip": "Family\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwE0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:47:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\FirstClass\\Dog.cs",
+              "RelativeDocumentMoniker": "FirstClass\\Dog.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\FirstClass\\Dog.cs",
+              "RelativeToolTip": "FirstClass\\Dog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:55:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\FirstClass\\Program.cs",
+              "RelativeDocumentMoniker": "FirstClass\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-12\\Documents\\Tsvetelina IXa\\Class9a\\FirstClass\\Program.cs",
+              "RelativeToolTip": "FirstClass\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:53:33.79Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
